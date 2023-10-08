@@ -1,0 +1,17 @@
+(mod (
+    my_amount
+    new_amount
+    my_puzzlehash
+  )
+
+  (defconstant TARGET_AMOUNT 500)
+  (defconstant CASH_OUT_PUZZLE_HASH 0xcafef00d)
+
+  ; main
+  (if (> new_amount my amount)
+    (if (> new_amount TARGET_AMOUNT))
+    ; cash_out
+    ; recreate+self
+    (x)
+  )
+)
